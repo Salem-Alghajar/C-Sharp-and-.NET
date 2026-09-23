@@ -33,9 +33,9 @@ class Program
         // 🏗️ Creating a new Employee object — our star of the show
         Employee emp = new Employee
         {
-            Id = 202,
-            FirstName = "Kawthar",
-            LastName = "Rivera"
+            Id = 100,
+            FirstName = "Salem",
+            LastName = "Alghajar"
         };
 
         // 🎭 POLYMORPHISM MAGIC:
